@@ -1,0 +1,18 @@
+.homepage{
+    background-color: rgb(243,243,243);
+    margin-left: 16%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.homepage.full_width{
+    margin-left: 5%;
+    
+}
+.videoSection{
+    display: flex;
+    flex-wrap: wrap;
+}
+.videoSection.full_width{
+    padding-left: 50px;
+
+}
